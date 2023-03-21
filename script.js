@@ -8,7 +8,7 @@ function popupku() {
 
   pWm.setAttribute("style", "text-decoration: none; color: white; opacity: .5; position: fixed; bottom : 10px; left: 10px");
 
-  pWm.innerHTML = "Di edit ama Ferry";
+  pWm.innerHTML = "Dari Ferry";
 
   body.appendChild(pWm);
 
